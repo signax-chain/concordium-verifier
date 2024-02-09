@@ -1,0 +1,28 @@
+[
+  {
+    "type": "RevealAttribute",
+    "attributeTag": "sex"
+  },
+  {
+    "type": "RevealAttribute",
+    "attributeTag": "idDocType"
+  },
+  {
+    "type": "RevealAttribute",
+    "attributeTag": "idDocIssuer"
+  },
+  {
+    "type": "RevealAttribute",
+    "attributeTag": "idDocNo"
+  },
+  {
+    "type": "RevealAttribute",
+    "attributeTag": "firstName"
+  },
+  {
+    "type": "AttributeInRange",
+    "attributeTag": "dob",
+    "lower": "18000101",
+    "upper": "20091212"
+  }
+]

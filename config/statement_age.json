@@ -1,0 +1,19 @@
+[
+  {
+    "type": "AttributeInRange",
+    "attributeTag": "dob",
+    "lower": "19000327",
+    "upper": "20050327"
+  },
+  {
+    "type": "RevealAttribute",
+    "attributeTag": "countryOfResidence"
+  },
+  {
+    "type": "AttributeInSet",
+    "attributeTag": "nationality",
+    "set": [
+      "IN"
+    ]
+  }
+]

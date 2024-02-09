@@ -1,0 +1,6 @@
+{
+    "type": "AttributeInRange",
+    "attributeTag": "dob",
+    "lower": "19000327",
+    "upper": "20050327"
+  }
